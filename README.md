@@ -1,6 +1,10 @@
 Snapmesh
 ========
 
+*veraltet - benutze stattdessen [SnapDB](https://github.com/Code-WvS/SnapDB)*
+
+*deprecated - use [SnapDB](https://github.com/Code-WvS/SnapDB) instead*
+
 Deutsch
 -------
 Einfacher Python-Server, der Daten empfängt, speichert und sendet. Snap!-Blöcke inbegriffen.
